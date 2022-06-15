@@ -1,4 +1,4 @@
-![Logo](.images/dev_logo_rvb_300dpi.jpg)
+![Logo](https://github.com/Devoteam/.github/blob/main/profile/.images/dev_logo_rvb_300dpi.jpg)
 
 # About Devoteam
 
